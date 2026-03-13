@@ -1,0 +1,1 @@
+Designed a Traffic Light Controller from Verilog-based FSM to PCB using KiCad. Simulated logic in Proteus 8 with LED indicators, then built hardware using 555 Timer, 4017 counter, and custom PCB layout. Integrated digital design, simulation, and hardware implementation.
