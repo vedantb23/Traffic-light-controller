@@ -137,7 +137,7 @@ module traffic_light_controller(
     
      s3:
     begin
-    a<=3'b001;
+    a<=3'b001;  
     b<=3'b001;
     c<=3'b100;
     d<=3'b100;
